@@ -1,0 +1,1 @@
+import{k as s,h as r}from"./index-D-AaRkdh.js";const c=s("counter",()=>{const n=r(1),t=r();function o(e){n.value=e}function u(e){t.value=e}return{listarticles:t,pagenumber:n,changenumber:o,changelist:u}});export{c as u};
