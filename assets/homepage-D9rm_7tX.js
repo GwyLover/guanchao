@@ -1,0 +1,1 @@
+import{_ as e,c as a,o}from"./index-BSVk4qAF.js";const s={class:"home"},t=Object.assign({name:"HomePage"},{__name:"homepage",setup(c){return(_,n)=>(o(),a("div",s,"这是首页"))}}),p=e(t,[["__scopeId","data-v-b5a817f9"]]);export{p as default};
