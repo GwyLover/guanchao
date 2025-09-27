@@ -1,1 +1,0 @@
-import{c as s,o as e}from"./index-DHj_KYwT.js";const o={class:"synopsis"},_=Object.assign({name:"SynopsisPage"},{__name:"synopsis",setup(n){return(t,a)=>(e(),s("div",o,"这是简介页"))}});export{_ as default};
